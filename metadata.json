@@ -1,0 +1,6 @@
+{
+  "name": "Excel Master Consolidator & openpyxl Python Suite",
+  "description": "Batch extract cell data from folders of Excel spreadsheets using custom cell coordinates and condition rules, compile unified master sheets with metadata, and generate turnkey Python openpyxl scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
